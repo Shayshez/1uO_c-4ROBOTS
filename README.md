@@ -3,4 +3,4 @@
 
 Firmware with VOR Support Available here:
 
-https://github.com/mxmxmx/O_C/tree/oc_p
+https://www.plum-audio.com/firmwares
